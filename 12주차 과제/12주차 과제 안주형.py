@@ -1,3 +1,7 @@
+
+# 아래 모든 코드는 chatGPT를 사용하지 않고 코드를 짜보고 싶다는 안주형의 열정이 담겨있습니다.  @출처 99.85%안주형 0.15%구글링
+
+
 # project 함수 선언 / 이유 : 조금 더 보기편하게 하기위해
 def project():
     pat = input("Patrons? (answer None/Some/Full)  ")
